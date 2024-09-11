@@ -6,5 +6,5 @@
 </div>
 
 <p>🎩 Author: Oscar</p>
-<p>🌙 Language: Python</p>
+<p>🌙 Language: Python, C++</p>
 <p>🌿 Status: Public</p>
