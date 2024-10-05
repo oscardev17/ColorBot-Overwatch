@@ -1,10 +1,14 @@
+# ColorBot Overwatch 🔫
 
-  <h1 align="center">ColorBot Overwatch</h1>
-  <p align="center">
-    I am giving this version of the colorbot because I developed another one that does not require an arduino!
-  </p>
-</div>
+This project is a color bot designed for Overwatch, built using Python and an Arduino programmed in C++.
 
-<p>🎩 Author: Oscar</p>
-<p>🌙 Language: Python, C++</p>
-<p>🌿 Status: Public</p>
+## Features
+
+- `Color Detection` Utilizes Python for real-time color detection from the game screen.
+- `Arduino Integration` Communicates with an Arduino microcontroller programmed in C++ to execute in-game actions based on color recognition.
+- `Customizable` Users can modify color thresholds and actions to tailor the bot's behavior to their preferences.
+
+## Prerequisites
+
+- `Python`
+- `Arduino IDE`
